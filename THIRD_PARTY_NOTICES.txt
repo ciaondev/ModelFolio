@@ -1,0 +1,53 @@
+ModelFolio — 오픈소스 고지 / Third-party notices
+© 2026 Ciaon
+
+ModelFolio에는 아래 오픈소스 구성 요소가 들어 있습니다. 각 구성 요소의 저작권은 해당 저작자에게 있으며,
+각 라이선스 조건에 따라 배포됩니다. 라이선스 전문은 각 프로젝트 저장소와, 설치 폴더 _internal 아래
+각 패키지의 *.dist-info/licenses 폴더에서 볼 수 있습니다.
+
+ModelFolio includes the open-source components below. Each remains under its own copyright and license.
+
+화면·앱
+- Python 3 — Python Software Foundation License (PSF-2.0) — https://www.python.org
+- pywebview — BSD 3-Clause — https://github.com/r0x0r/pywebview
+- pythonnet, clr-loader — MIT — https://github.com/pythonnet
+- bottle, proxy_tools — MIT
+- three.js — MIT — https://github.com/mrdoob/three.js
+- Model Exploder 전개 수식 일부 포팅(syntway/model_exploder 2a821e6) — Apache License 2.0 — https://github.com/syntway/model_exploder
+  라이선스 전문: _internal\modelfolio\web\js\explode\LICENSE-model-exploder-APACHE-2.0.txt (바꾼 점: USD/UI 대신 three.js 이동량으로)
+- Fusion 360 exploded view 층별 전개 로직 일부 포팅(boraiks/fusion360-exploded-view 5160b11) — MIT
+  라이선스 전문: _internal\modelfolio\web\js\explode\LICENSE-fusion360-exploded-view-MIT.txt
+- Pretendard 글꼴 — SIL Open Font License 1.1 — https://github.com/orioncactus/pretendard
+- Microsoft Edge WebView2 Runtime — Microsoft 소프트웨어 사용 조건(Windows에 포함, ModelFolio와 함께 배포하지 않음)
+
+3D 파일 읽기·변환
+- Assimp (assimp_py 포함) — BSD 3-Clause / assimp_py: MIT — https://github.com/assimp/assimp
+- Open CASCADE Technology 8.0.1 (cascadio 0.1.1 포함) — LGPL 2.1 with Open CASCADE exception / cascadio: MIT
+  https://dev.opencascade.org · 소스: https://github.com/Open-Cascade-SAS/OCCT
+  교체 방법: OCCT는 설치 폴더 _internal\cascadio.libs 의 TK*.dll 파일들(TKernel-<해시>.dll 등)로 들어 있습니다.
+  같은 버전과 호환되는 DLL을 직접 빌드해 같은 파일 이름으로 바꿔 넣으면 됩니다. 요청하시면 사용한 버전의
+  소스 위치를 안내합니다(ciaon.dev@gmail.com).
+  How to replace: OCCT is shipped as the TK*.dll files in _internal\cascadio.libs (e.g. TKernel-<hash>.dll).
+  Build compatible DLLs and replace them under the same file names.
+- fast-simplification — MIT — https://github.com/pyvista/fast-simplification
+- manifold3d — Apache License 2.0 — https://github.com/elalish/manifold
+- libigl (core only: igl/pyigl_core) — Mozilla Public License 2.0 — https://github.com/libigl/libigl-python-bindings
+  (GPL·제한 라이선스 모듈 igl.copyleft·igl.triangle은 포함하지 않음. 소스: https://github.com/libigl/libigl)
+- SciPy (scipy.sparse, libigl이 사용) — BSD 3-Clause — https://scipy.org
+- NumPy — BSD 3-Clause (및 0BSD, MIT, Zlib 일부) — https://numpy.org
+- Pillow — MIT-CMU (HPND) — https://python-pillow.org
+- psutil — BSD 3-Clause
+- cryptography (보기용 공유 파일 봉인, AES-GCM) — Apache License 2.0 / BSD 3-Clause, 포함된 OpenSSL — Apache License 2.0 — https://github.com/pyca/cryptography
+- cffi, pycparser — MIT-0 / BSD 3-Clause
+
+고품질 렌더링
+- Mitsuba 3 — BSD 3-Clause — https://github.com/mitsuba-renderer/mitsuba3
+- Dr.Jit — BSD 3-Clause — https://github.com/mitsuba-renderer/drjit
+- Intel Open Image Denoise (pyoidn 포함) — Apache License 2.0 / pyoidn: MIT
+- NVIDIA OptiX 노이즈 제거 — NVIDIA 그래픽 드라이버에 포함(ModelFolio와 함께 배포하지 않음)
+
+따로 내려받는 것(설치 파일에 들어 있지 않음, 사용자가 고를 때만 받음)
+- Poly Haven HDRI — CC0 — https://polyhaven.com
+- AI 배경 추가 팩: Python 3.12(PSF), PyTorch(BSD 3-Clause), Hugging Face diffusers·transformers·accelerate
+  (Apache 2.0), Stable Diffusion XL Inpainting 0.1 모델(CreativeML OpenRAIL++-M)
+  https://huggingface.co/diffusers/stable-diffusion-xl-1.0-inpainting-0.1

@@ -1,0 +1,118 @@
+ModelFolio 이용허락서 / ModelFolio License
+버전 1.1 (2026-10-24)
+Copyright (c) 2026 Ciaon. All rights reserved.
+
+============================================================
+[한국어]
+============================================================
+
+제1조 (정의)
+1. "프로그램": Ciaon이 배포하는 ModelFolio 실행 파일·설치 파일과, 그 안에서 Ciaon이 만든 코드·그림·문서를
+   말합니다. 제6조의 동봉 오픈소스 구성 요소는 포함하지 않습니다.
+2. "개인": 자연인을 말합니다.
+3. "1인 사업자": 근로자 없이 혼자 일하는 사람을 말하며, 사업자등록 여부와 상관없습니다(프리랜서 포함).
+   대표 한 사람 외에 근로자가 없는 1인 법인도 포함합니다.
+4. "근로자를 둔 사업장": 근로자(직원)를 한 명 이상 둔 회사, 법인, 단체, 그 밖의 사업장을 말합니다
+   (제2조 3호의 학교·비영리 단체 제외).
+5. "결과물": 프로그램으로 만든 렌더 이미지, 장면, 발표 화면, 내보낸 파일을 말합니다.
+
+제2조 (무료로 허락하는 사용)
+누구나 아래 목적으로 프로그램을 무료로 설치하고 사용할 수 있습니다.
+1. 개인의 사용: 취미, 학습, 자기 작품의 정리·전시, 포트폴리오와 취업·입시 준비
+2. 1인 사업자의 사용: 대가를 받는 의뢰 작업을 포함하며, 의뢰인이 근로자를 둔 사업장인 작업도 포함합니다.
+3. 학교의 수업과 과제, 비영리·자선 단체의 사용
+4. 받은 그대로의 설치 파일을 대가 없이 다른 사람에게 전달하는 것(이 허락서와 함께)
+
+제3조 (허락이 필요한 사용)
+아래는 Ciaon의 별도 서면 허락이 있어야 합니다. 문의: ciaon.dev@gmail.com
+1. 근로자를 둔 사업장에서 업무용으로 사용하는 것(근로자가 업무로 쓰는 것 포함).
+   제2조 2호의 1인 사업자는 해당하지 않습니다.
+
+제4조 (금지)
+아래 제한은 제6조의 동봉 오픈소스 구성 요소에는 적용되지 않습니다.
+1. 프로그램을 판매·대여하거나, 유료 제품·서비스에 넣거나 함께 배포하거나, 대가를 받고 배포하는 것
+2. 프로그램(Ciaon이 만든 부분)을 수정하거나, 역설계·디컴파일·분해하는 것.
+   다만 관련 법이 이 제한과 상관없이 허용하는 범위는 예외입니다.
+3. 저작권·상표 표시나 이 허락서를 지우거나 바꾸는 것
+4. 프로그램을 다른 사람이 만든 것처럼 배포하거나, "ModelFolio"·"Ciaon" 이름을 공식인 것처럼 쓰는 것
+
+제5조 (결과물)
+이 허락서는 결과물의 사용(상업적 사용 포함)에 추가 제한을 두지 않습니다.
+다만 결과물에 들어간 입력 자료(모델 파일, 텍스처, 글꼴, 배경 그림 등)는 그 권리자의 조건을 따릅니다.
+AI 배경 추가 팩으로 만든 그림은 해당 AI 모델 라이선스(CreativeML OpenRAIL++-M)의 사용 제한도 따릅니다.
+
+제6조 (동봉 오픈소스 구성 요소)
+1. 프로그램에는 THIRD_PARTY_NOTICES.txt에 적힌 오픈소스 구성 요소가 들어 있습니다. 이들은 이 허락서가 아니라
+   각자의 라이선스를 따르며, 이 허락서의 어떤 조항도 그 라이선스가 주는 권리를 줄이지 않습니다.
+2. 특히 Open CASCADE Technology(LGPL 2.1 + Open CASCADE 예외)는 별도 동적 라이브러리(DLL)로 들어 있습니다.
+   사용자는 LGPL에 따라 이 라이브러리를 수정·교체할 수 있으며, 그 수정을 디버깅하는 데 필요한 범위에서
+   프로그램과 이 라이브러리를 연결하는 부분을 역설계할 수 있습니다. 교체 방법과 소스 위치는
+   THIRD_PARTY_NOTICES.txt에 안내합니다.
+
+제7조 (보증·책임)
+프로그램은 "있는 그대로" 제공됩니다. 법이 허용하는 한 어떠한 보증도 하지 않으며, 프로그램 사용으로 생긴
+손해(데이터 손실 포함)에 대해 책임지지 않습니다.
+
+제8조 (위반과 종료)
+이 허락서를 어긴 경우, 처음으로 서면(이메일 포함) 통지를 받은 날부터 30일 안에 위반을 멈추고 바로잡으면
+허락은 유지됩니다. 30일 안에 바로잡지 않거나, 다시 어기면 허락은 끝납니다.
+
+============================================================
+[English]
+============================================================
+
+1. Definitions
+1.1 "Software" means the ModelFolio executable and installer distributed by Ciaon, and the code, graphics and
+    documents in them made by Ciaon. It does not include the bundled open-source components in Section 6.
+1.2 "Individual" means a natural person.
+1.3 "Sole proprietor" means a person working alone without employees, with or without a business registration
+    (freelancers included), including a single-member company with no employees other than its owner.
+1.4 "Workplace with employees" means a company, corporation, association or any other business that has one or
+    more employees (excluding the schools and non-profit organizations in Section 2.3).
+1.5 "Output" means renders, scenes, presentations and exported files created with the Software.
+
+2. Free use
+Anyone may install and use the Software free of charge for:
+2.1 Personal use by Individuals: hobbies, learning, organizing and showing their own work, portfolios, and
+    job or school applications;
+2.2 Use by Sole proprietors, including paid commissioned work, also when the client is a Workplace with employees;
+2.3 Use by schools (classes and assignments) and by non-profit or charitable organizations;
+2.4 Sharing the unmodified installer with others free of charge, together with this License.
+
+3. Use that requires permission
+The following require Ciaon's separate written permission (contact: ciaon.dev@gmail.com):
+3.1 Business use at a Workplace with employees, including employees using the Software for work. Sole
+    proprietors under Section 2.2 are not covered by this clause.
+
+4. Restrictions
+These restrictions do not apply to the bundled open-source components in Section 6.
+4.1 Selling or renting the Software, including or bundling it with paid products or services, or distributing it
+    for a fee;
+4.2 Modifying, reverse engineering, decompiling or disassembling the Software (the parts made by Ciaon),
+    except to the extent applicable law expressly permits it regardless of this restriction;
+4.3 Removing or altering copyright or trademark notices or this License;
+4.4 Distributing the Software as someone else's work, or using the names "ModelFolio" or "Ciaon" as if official.
+
+5. Output
+This License places no additional restriction on the use of Output, including commercial use. Input materials
+used in Output (model files, textures, fonts, background images and so on) remain subject to their owners'
+terms. Images made with the AI background add-on are also subject to the use restrictions of that AI model's
+license (CreativeML OpenRAIL++-M).
+
+6. Bundled open-source components
+6.1 The Software includes the open-source components listed in THIRD_PARTY_NOTICES.txt. They are licensed under
+    their own terms, not this License, and nothing in this License limits the rights those licenses grant.
+6.2 In particular, Open CASCADE Technology (LGPL 2.1 with the Open CASCADE exception) is included as separate
+    dynamic libraries (DLLs). You may modify and replace these libraries under the LGPL, and reverse engineer
+    the parts of the Software that interface with them to the extent needed to debug such modifications.
+    THIRD_PARTY_NOTICES.txt explains how to replace them and where to get the source.
+
+7. No warranty, no liability
+THE SOFTWARE IS PROVIDED "AS IS". TO THE EXTENT PERMITTED BY LAW, CIAON GIVES NO WARRANTY OF ANY KIND AND IS NOT
+LIABLE FOR ANY DAMAGES (INCLUDING DATA LOSS) ARISING FROM THE USE OF THE SOFTWARE.
+
+8. Violations and termination
+If you violate this License, your license continues if you stop and correct the violation within 30 days after
+first receiving written notice (including email). Otherwise, or if you violate it again, your license ends.
+
+If the Korean and English versions differ, the Korean version prevails.

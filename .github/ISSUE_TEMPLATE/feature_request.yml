@@ -1,0 +1,15 @@
+name: 제안 · Feature request
+description: 있으면 좋겠는 기능이나 바꿨으면 하는 점 · An idea or improvement
+labels: ["enhancement"]
+body:
+  - type: textarea
+    id: idea
+    attributes:
+      label: 제안 · Idea
+      description: 무엇이 있으면 좋겠고, 어떤 작업에 쓰려는지 · What you'd like and what you'd use it for
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: ModelFolio 버전 · Version
