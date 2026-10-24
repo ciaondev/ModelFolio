@@ -25,7 +25,7 @@ and the update check. The update notice shows the matching section below, in the
 - **고품질 렌더·AI 배경:** 큰 모델을 멀리서 찍을 때 뒤가 잘리던 것 고침, 반광 바닥, 반사 바닥 정리, AI 배경 후보 여러 장·기록·시드, 각도 맞춤, 물 장면.
 - **앨범:** 디자인 시안 A 스튜디오·B 매거진·C 전시관·D 추천(모든 시안에서 카드 우클릭 메뉴, 창 너비에 맞춰 줄바꿈), 새 시작 화면.
 - **예제 작품·문제 보고:** 처음 실행하면 곰 키링 예제를 넣을지 묻기, About의 [문제 보고]·[로그 폴더](로그 파일에서 사용자 폴더·이름은 지움).
-- **이용허락서 1.1:** 개인·1인 사업자·학교·비영리 무료, 근로자를 둔 사업장의 업무용 사용은 문의, 앱 판매 금지, 결과물 제한 없음.
+- **이용허락서 1.2:** 개인·1인 사업자·학교·비영리 무료, 근로자를 둔 사업장과 공공기관의 업무용 사용은 문의, 앱 자체의 판매·유료 서비스 제공 금지(유료 의뢰 작업 납품은 가능), 결과물 제한 없음, Ciaon의 코드·그림·문서로 AI 학습 금지. 오픈소스 고지에 AI 모델 이름·라이선스와 OCCT 교체·소스 안내를 보완.
 - **라이브러리 기본 위치:** 새로 만들 때 문서 폴더가 OneDrive 안이면 사용자 폴더 아래(`C:\Users\<이름>\ModelFolio Library`)로(동기화 충돌 방지). 이미 있는 라이브러리는 그대로.
 - **새 버전 알림:** 하루 한 번 확인 → [지금 설치](SHA-256 확인 후 설치)·[나중에]·[이 버전 건너뛰기], 설정 → 일반 → 업데이트에서 끄기, 인터넷이 없으면 조용히 넘어감.
 
@@ -46,7 +46,7 @@ First public release.
 - **Rendering and AI backgrounds:** fixed the far side being cut off when rendering a large model from a distance, semi-gloss floor, cleaner reflective floor, multiple AI candidates with history and seeds, angle matching, water scenes.
 - **Album:** design styles A Studio, B Magazine, C Exhibition, D Featured (card right-click menu in every style, rows wrap to the window width), new start screen.
 - **Sample work and problem reports:** offers a Bear Keyring sample on first launch; Report a problem and Log folder in About (user folder and name are removed from the log).
-- **License 1.1:** free for individuals, sole proprietors, schools and non-profits; business use at workplaces with employees needs permission; selling the app is not allowed; no restrictions on output.
+- **License 1.2:** free for individuals, sole proprietors, schools and non-profits; business use at workplaces with employees or public institutions needs permission; selling the app itself or offering it as a paid service is not allowed (delivering paid commissioned work is fine); no restrictions on output; no AI training on Ciaon's code, graphics and documents. The open-source notices now list the AI models and their licenses, and how to replace OCCT and get its source.
 - **Default library location:** a new library goes under your user folder (`C:\Users\<name>\ModelFolio Library`) when Documents is inside OneDrive, to avoid sync conflicts. Existing libraries stay where they are.
 - **Update notice:** checks once a day → Install now (installs after verifying SHA-256), Later or Skip this version; turn it off in Settings → General → Updates; quietly skipped when offline.
 

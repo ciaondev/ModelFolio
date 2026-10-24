@@ -71,7 +71,7 @@
 
 ### 라이선스
 
-[ModelFolio 이용허락서](LICENSE.txt) — **개인·1인 사업자·학교·비영리 무료 · 근로자를 둔 사업장의 업무용 사용은 문의(ciaon.dev@gmail.com) · 앱 판매 금지 · 결과물 제한 없음.**
+[ModelFolio 이용허락서](LICENSE.txt) — **개인·1인 사업자·학교·비영리 무료 · 근로자를 둔 사업장과 공공기관의 업무용 사용은 문의(ciaon.dev@gmail.com) · 앱 자체의 판매·유료 서비스 제공 금지 · 결과물 제한 없음(유료 의뢰 작업 납품 가능).**
 
 ModelFolio에는 오픈소스 구성 요소(three.js, Mitsuba 3, Assimp, Open CASCADE 등)가 들어 있습니다. [THIRD_PARTY_NOTICES.txt](THIRD_PARTY_NOTICES.txt)를 보세요.
 
@@ -147,7 +147,7 @@ Download **`ModelFolio-Setup-<version>.exe`** from [Releases](../../releases) an
 
 ### License
 
-[ModelFolio License](LICENSE.txt) — **Free for individuals, sole proprietors, schools and non-profits · business use at workplaces with employees: contact ciaon.dev@gmail.com · selling the app is not allowed · no restrictions on your output.**
+[ModelFolio License](LICENSE.txt) — **Free for individuals, sole proprietors, schools and non-profits · business use at workplaces with employees or public institutions: contact ciaon.dev@gmail.com · selling the app itself or offering it as a paid service is not allowed · no restrictions on your output (paid commissioned work is fine).**
 
 ModelFolio includes open-source components (three.js, Mitsuba 3, Assimp, Open CASCADE and others); see [THIRD_PARTY_NOTICES.txt](THIRD_PARTY_NOTICES.txt).
 

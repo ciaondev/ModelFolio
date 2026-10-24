@@ -23,12 +23,23 @@ ModelFolio includes the open-source components below. Each remains under its own
 3D 파일 읽기·변환
 - Assimp (assimp_py 포함) — BSD 3-Clause / assimp_py: MIT — https://github.com/assimp/assimp
 - Open CASCADE Technology 8.0.1 (cascadio 0.1.1 포함) — LGPL 2.1 with Open CASCADE exception / cascadio: MIT
-  https://dev.opencascade.org · 소스: https://github.com/Open-Cascade-SAS/OCCT
-  교체 방법: OCCT는 설치 폴더 _internal\cascadio.libs 의 TK*.dll 파일들(TKernel-<해시>.dll 등)로 들어 있습니다.
-  같은 버전과 호환되는 DLL을 직접 빌드해 같은 파일 이름으로 바꿔 넣으면 됩니다. 요청하시면 사용한 버전의
-  소스 위치를 안내합니다(ciaon.dev@gmail.com).
-  How to replace: OCCT is shipped as the TK*.dll files in _internal\cascadio.libs (e.g. TKernel-<hash>.dll).
-  Build compatible DLLs and replace them under the same file names.
+  https://dev.opencascade.org · 라이선스: https://occt3d.com/dev/doc/overview/html/occt_public_license.html
+  교체 방법: OCCT는 설치 폴더 _internal\cascadio.libs 에 DLL 29개(TKernel-<해시>.dll 같은 TK*.dll과 MSVC 런타임)로
+  따로 들어 있고, 프로그램은 이 라이브러리를 쓸 때 그 폴더에서 파일 이름으로 찾아 읽습니다(0.4.0 설치 파일과
+  같은 빌드로 확인: 파일을 빼면 불러오지 못하고, 다시 넣으면 다시 불러옵니다). OCCT 8.0.1과 호환되게 직접 빌드한
+  DLL을 같은 파일 이름으로 바꿔 넣으면 됩니다.
+  소스: 같은 버전 OCCT 8.0.1 — https://github.com/Open-Cascade-SAS/OCCT/archive/refs/tags/V8_0_1.zip
+        이 DLL을 빌드한 cascadio 0.1.1(빌드 스크립트 포함) — https://github.com/trimesh/cascadio
+  서면 제공 약속: 이 버전을 받은 날부터 3년 동안, 요청하시면 위 DLL에 해당하는 OCCT 소스 전체를 배포 비용 이상을
+  받지 않고 보내 드립니다(ciaon.dev@gmail.com).
+  How to replace: OCCT ships as 29 DLLs in _internal\cascadio.libs (TK*.dll files such as TKernel-<hash>.dll, plus
+  the MSVC runtime), and the program loads them from that folder by file name when it uses the library (verified
+  with the same build as the 0.4.0 installer: with a file removed the library fails to load, and putting it back
+  restores it). Build DLLs compatible with OCCT 8.0.1 and replace them under the same file names.
+  Source: OCCT 8.0.1 — https://github.com/Open-Cascade-SAS/OCCT/archive/refs/tags/V8_0_1.zip ·
+  cascadio 0.1.1 (with its build scripts) — https://github.com/trimesh/cascadio
+  Written offer: for three years from when you received this version, on request we will send the complete OCCT
+  source corresponding to these DLLs for no more than the cost of distribution (ciaon.dev@gmail.com).
 - fast-simplification — MIT — https://github.com/pyvista/fast-simplification
 - manifold3d — Apache License 2.0 — https://github.com/elalish/manifold
 - libigl (core only: igl/pyigl_core) — Mozilla Public License 2.0 — https://github.com/libigl/libigl-python-bindings
@@ -49,5 +60,10 @@ ModelFolio includes the open-source components below. Each remains under its own
 따로 내려받는 것(설치 파일에 들어 있지 않음, 사용자가 고를 때만 받음)
 - Poly Haven HDRI — CC0 — https://polyhaven.com
 - AI 배경 추가 팩: Python 3.12(PSF), PyTorch(BSD 3-Clause), Hugging Face diffusers·transformers·accelerate
-  (Apache 2.0), Stable Diffusion XL Inpainting 0.1 모델(CreativeML OpenRAIL++-M)
-  https://huggingface.co/diffusers/stable-diffusion-xl-1.0-inpainting-0.1
+  (Apache 2.0), 그리고 아래 AI 모델 두 개(둘 다 CreativeML OpenRAIL++-M — 사용 제한 포함)
+  · Stable Diffusion XL Inpainting 0.1 (diffusers/stable-diffusion-xl-1.0-inpainting-0.1)
+    https://huggingface.co/diffusers/stable-diffusion-xl-1.0-inpainting-0.1
+  · ControlNet Depth SDXL 1.0 small (diffusers/controlnet-depth-sdxl-1.0-small)
+    https://huggingface.co/diffusers/controlnet-depth-sdxl-1.0-small
+  라이선스 원문: https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/blob/main/LICENSE.md
+  다른 체크포인트·LoRA는 넣지 않습니다(바뀌면 여기에 모델 이름·버전·라이선스를 적습니다).
