@@ -1,5 +1,5 @@
 ModelFolio 이용허락서 / ModelFolio License
-버전 1.2 (2026-10-25)
+버전 1.3 (2026-10-25)
 Copyright (c) 2026 Ciaon. All rights reserved.
 
 ============================================================
@@ -10,32 +10,34 @@ Copyright (c) 2026 Ciaon. All rights reserved.
 1. "프로그램": Ciaon이 배포하는 ModelFolio 실행 파일·설치 파일과, 그 안에서 Ciaon이 만든 코드·그림·문서를
    말합니다. 제6조의 동봉 오픈소스 구성 요소는 포함하지 않습니다.
 2. "개인": 자연인을 말합니다.
-3. "1인 사업자": 근로자 없이 혼자 일하는 사람을 말하며, 사업자등록 여부와 상관없습니다(프리랜서 포함).
-   대표 한 사람 외에 근로자가 없는 1인 법인도 포함합니다. 무료 여부는 사용하는 PC의 소유자가 아니라
-   사용하는 사람의 지위와 사용 목적으로 정합니다.
-4. "근로자를 둔 사업장": 근로자(직원)를 한 명 이상 둔 회사, 법인, 단체, 그 밖의 사업장을 말합니다
-   (제2조 3호의 학교·비영리 단체 제외).
-5. "결과물": 프로그램으로 만든 렌더 이미지, 장면, 발표 화면, 내보낸 파일을 말합니다.
-6. "공공기관": 국가기관, 지방자치단체, 공공기관과 그 밖의 공공 단체를 말합니다(제2조 3호의 학교 제외).
+3. "비영리 사용": 대가를 받거나 영리를 목적으로 하지 않는 사용을 말합니다. 취미, 학습, 자기 작품의
+   정리·전시, 포트폴리오와 취업·입시 준비가 여기에 해당합니다. 무료 여부는 사용하는 PC의 소유자가 아니라
+   사용하는 사람과 사용 목적으로 정합니다.
+4. "대가를 받는 사용": 돈이나 그 밖의 대가를 받는 작업·서비스에 프로그램을 쓰는 것을 말합니다. 1인 사업자·
+   프리랜서의 유료 의뢰 작업과, 결과물을 판매하는 것을 포함하며 사업자등록 여부와 상관없습니다.
+5. "근로자를 둔 사업장": 근로자(직원)를 한 명 이상 둔 회사, 법인, 단체, 그 밖의 사업장을 말합니다
+   (제2조 2호·3호의 학교·비영리 단체 제외).
+6. "공공기관": 국가기관, 지방자치단체, 공공기관과 그 밖의 공공 단체를 말합니다(제2조 2호의 학교 제외).
+7. "결과물": 프로그램으로 만든 렌더 이미지, 장면, 발표 화면, 내보낸 파일을 말합니다.
 
 제2조 (무료로 허락하는 사용)
 누구나 아래 목적으로 프로그램을 무료로 설치하고 사용할 수 있습니다.
-1. 개인의 사용: 취미, 학습, 자기 작품의 정리·전시, 포트폴리오와 취업·입시 준비
-2. 1인 사업자의 사용: 대가를 받는 의뢰 작업을 포함하며, 의뢰인이 근로자를 둔 사업장인 작업도 포함합니다.
-3. 학교의 수업과 과제, 비영리·자선 단체의 사용
+1. 개인의 비영리 사용(취미, 학습, 자기 작품의 정리·전시, 포트폴리오와 취업·입시 준비)
+2. 학교의 수업과 과제
+3. 비영리·자선 단체의 사용
 4. 받은 그대로의 설치 파일을 대가 없이 다른 사람에게 전달하는 것(이 허락서와 함께)
 
 제3조 (허락이 필요한 사용)
 아래는 Ciaon의 별도 서면 허락이 있어야 합니다. 문의: ciaon.dev@gmail.com
-1. 근로자를 둔 사업장에서 업무용으로 사용하는 것(근로자가 업무로 쓰는 것 포함).
-   제2조 2호의 1인 사업자는 해당하지 않습니다.
-2. 공공기관에서 업무용으로 사용하는 것(공무원·직원이 업무로 쓰는 것 포함)
+1. 대가를 받는 모든 사용(1인 사업자·프리랜서의 유료 의뢰 작업 포함)
+2. 근로자를 둔 사업장에서 업무용으로 사용하는 것(근로자가 업무로 쓰는 것 포함)
+3. 공공기관에서 업무용으로 사용하는 것(공무원·직원이 업무로 쓰는 것 포함)
 
 제4조 (금지)
 아래 제한은 제6조의 동봉 오픈소스 구성 요소에는 적용되지 않습니다.
 1. 프로그램 자체를 판매·대여하거나, 유료 서비스로 제공하거나, 유료 제품에 넣어 함께 배포하거나,
-   대가를 받고 배포하는 것. 제2조에 따라 사용할 수 있는 사람이 프로그램으로 결과물을 만들어 대가를 받고
-   납품하는 것(유료 의뢰 작업)은 여기에 해당하지 않습니다.
+   대가를 받고 배포하는 것. 제3조에 따라 허락을 받은 사람이 그 허락 범위에서 결과물을 만들어 납품하는 것은
+   여기에 해당하지 않습니다.
 2. 프로그램(Ciaon이 만든 부분)을 수정하거나, 역설계·디컴파일·분해하는 것.
    다만 관련 법이 이 제한과 상관없이 허용하는 범위는 예외입니다.
 3. 저작권·상표 표시나 이 허락서를 지우거나 바꾸는 것
@@ -44,8 +46,9 @@ Copyright (c) 2026 Ciaon. All rights reserved.
    사용자의 결과물과 제6조의 동봉 오픈소스 구성 요소는 여기에 해당하지 않습니다.
 
 제5조 (결과물)
-이 허락서는 결과물의 사용(상업적 사용 포함)에 추가 제한을 두지 않습니다.
-다만 결과물에 들어간 입력 자료(모델 파일, 텍스처, 글꼴, 배경 그림 등)는 그 권리자의 조건을 따릅니다.
+제2조의 무료 범위에서 만든 결과물에 대해서는 이 허락서가 추가 제한을 두지 않습니다(자기 작품을 포트폴리오로
+보여 주는 것 포함). 제3조의 허락을 받아 만든 결과물의 조건은 그 허락에서 정합니다.
+어느 경우든 결과물에 들어간 입력 자료(모델 파일, 텍스처, 글꼴, 배경 그림 등)는 그 권리자의 조건을 따릅니다.
 AI 배경 추가 팩으로 만든 그림은 그 팩이 쓰는 AI 모델의 라이선스(사용 제한 포함)도 따릅니다.
 모델 이름·버전·라이선스는 THIRD_PARTY_NOTICES.txt에 적습니다.
 
@@ -78,34 +81,37 @@ AI 배경 추가 팩으로 만든 그림은 그 팩이 쓰는 AI 모델의 라�
 1.1 "Software" means the ModelFolio executable and installer distributed by Ciaon, and the code, graphics and
     documents in them made by Ciaon. It does not include the bundled open-source components in Section 6.
 1.2 "Individual" means a natural person.
-1.3 "Sole proprietor" means a person working alone without employees, with or without a business registration
-    (freelancers included), including a single-member company with no employees other than its owner.
-    Whether use is free depends on who uses the Software and for what, not on who owns the computer.
-1.4 "Workplace with employees" means a company, corporation, association or any other business that has one or
-    more employees (excluding the schools and non-profit organizations in Section 2.3).
-1.5 "Output" means renders, scenes, presentations and exported files created with the Software.
+1.3 "Non-commercial use" means use that is not paid and not for profit, such as hobbies, learning, organizing and
+    showing your own work, portfolios, and job or school applications. Whether use is free depends on who uses
+    the Software and for what, not on who owns the computer.
+1.4 "Paid use" means using the Software for work or services for which you receive money or anything else of
+    value, including paid commissioned work by sole proprietors and freelancers and selling Output, with or
+    without a business registration.
+1.5 "Workplace with employees" means a company, corporation, association or any other business that has one or
+    more employees (excluding the schools and non-profit organizations in Sections 2.2 and 2.3).
 1.6 "Public institution" means a national government agency, local government, public institution or other
-    public body (excluding the schools in Section 2.3).
+    public body (excluding the schools in Section 2.2).
+1.7 "Output" means renders, scenes, presentations and exported files created with the Software.
 
 2. Free use
 Anyone may install and use the Software free of charge for:
-2.1 Personal use by Individuals: hobbies, learning, organizing and showing their own work, portfolios, and
-    job or school applications;
-2.2 Use by Sole proprietors, including paid commissioned work, also when the client is a Workplace with employees;
-2.3 Use by schools (classes and assignments) and by non-profit or charitable organizations;
+2.1 Non-commercial use by Individuals (hobbies, learning, organizing and showing their own work, portfolios, and
+    job or school applications);
+2.2 Classes and assignments at schools;
+2.3 Use by non-profit or charitable organizations;
 2.4 Sharing the unmodified installer with others free of charge, together with this License.
 
 3. Use that requires permission
 The following require Ciaon's separate written permission (contact: ciaon.dev@gmail.com):
-3.1 Business use at a Workplace with employees, including employees using the Software for work. Sole
-    proprietors under Section 2.2 are not covered by this clause.
-3.2 Business use at a Public institution, including officials and staff using the Software for work.
+3.1 Any Paid use, including paid commissioned work by sole proprietors and freelancers;
+3.2 Business use at a Workplace with employees, including employees using the Software for work;
+3.3 Business use at a Public institution, including officials and staff using the Software for work.
 
 4. Restrictions
 These restrictions do not apply to the bundled open-source components in Section 6.
 4.1 Selling or renting the Software itself, offering it as a paid service, bundling it with a paid product, or
-    distributing it for a fee. Creating Output with the Software and delivering it for a fee (paid
-    commissioned work) by someone permitted to use it under Section 2 is not covered by this clause;
+    distributing it for a fee. Creating and delivering Output within the scope of a permission granted under
+    Section 3 is not covered by this clause;
 4.2 Modifying, reverse engineering, decompiling or disassembling the Software (the parts made by Ciaon),
     except to the extent applicable law expressly permits it regardless of this restriction;
 4.3 Removing or altering copyright or trademark notices or this License;
@@ -114,10 +120,12 @@ These restrictions do not apply to the bundled open-source components in Section
     Your Output and the bundled open-source components in Section 6 are not covered by this clause.
 
 5. Output
-This License places no additional restriction on the use of Output, including commercial use. Input materials
-used in Output (model files, textures, fonts, background images and so on) remain subject to their owners'
-terms. Images made with the AI background add-on are also subject to the licenses (including use restrictions)
-of the AI models the add-on uses. Their names, versions and licenses are listed in THIRD_PARTY_NOTICES.txt.
+This License places no additional restriction on Output created within the free use in Section 2 (including
+showing your own work in a portfolio). The terms for Output created under a permission in Section 3 are set by
+that permission. In either case, input materials used in Output (model files, textures, fonts, background
+images and so on) remain subject to their owners' terms. Images made with the AI background add-on are also
+subject to the licenses (including use restrictions) of the AI models the add-on uses. Their names, versions and
+licenses are listed in THIRD_PARTY_NOTICES.txt.
 
 6. Bundled open-source components
 6.1 The Software includes the open-source components listed in THIRD_PARTY_NOTICES.txt. They are licensed under
@@ -125,8 +133,8 @@ of the AI models the add-on uses. Their names, versions and licenses are listed 
 6.2 In particular, Open CASCADE Technology (LGPL 2.1 with the Open CASCADE exception) is included as separate
     dynamic libraries (DLLs). You may modify and replace these libraries under LGPL 2.1. As section 6 of LGPL 2.1
     provides, "modification of the work for the customer's own use and reverse engineering for debugging such
-    modifications" are permitted, and Section 4.2 does not apply to that extent. THIRD_PARTY_NOTICES.txt explains how to
-    replace them and where to get the source.
+    modifications" are permitted, and Section 4.2 does not apply to that extent. THIRD_PARTY_NOTICES.txt explains
+    how to replace them and where to get the source.
 
 7. No warranty, no liability
 THE SOFTWARE IS PROVIDED "AS IS". TO THE EXTENT PERMITTED BY LAW, CIAON GIVES NO WARRANTY OF ANY KIND AND IS NOT

@@ -71,14 +71,14 @@
 
 ### 라이선스
 
-[ModelFolio 이용허락서](LICENSE.txt) — **개인·1인 사업자·학교·비영리 무료 · 근로자를 둔 사업장과 공공기관의 업무용 사용은 문의(ciaon.dev@gmail.com) · 앱 자체의 판매·유료 서비스 제공 금지 · 결과물 제한 없음(유료 의뢰 작업 납품 가능).**
+[ModelFolio 이용허락서](LICENSE.txt) — **개인의 비영리 사용·학교 수업·비영리 단체 무료 · 대가를 받는 사용(1인 사업자·프리랜서 유료 의뢰 포함)과 근로자를 둔 사업장·공공기관의 업무용 사용은 문의(ciaon.dev@gmail.com) · 앱 자체의 판매·유료 서비스 제공 금지 · 무료 범위에서 만든 결과물은 추가 제한 없음.**
 
 ModelFolio에는 오픈소스 구성 요소(three.js, Mitsuba 3, Assimp, Open CASCADE 등)가 들어 있습니다. [THIRD_PARTY_NOTICES.txt](THIRD_PARTY_NOTICES.txt)를 보세요.
 
 ### 만든 사람 · 후원
 
 - 만든 사람: **Ciaon** · 문의 ciaon.dev@gmail.com
-- ModelFolio는 개인·1인 사업자에게 무료입니다. 쓸모가 있었다면 커피 한 잔으로 응원해 주세요.
+- ModelFolio는 개인·비영리 사용은 무료입니다. 쓸모가 있었다면 커피 한 잔으로 응원해 주세요.
   - 해외·카드: [PayPal (paypal.me/SupportCiaon)](https://paypal.me/SupportCiaon)
   - 국내: 카카오페이 — 휴대전화로 아래 QR을 찍어 주세요
 
@@ -147,14 +147,14 @@ Download **`ModelFolio-Setup-<version>.exe`** from [Releases](../../releases) an
 
 ### License
 
-[ModelFolio License](LICENSE.txt) — **Free for individuals, sole proprietors, schools and non-profits · business use at workplaces with employees or public institutions: contact ciaon.dev@gmail.com · selling the app itself or offering it as a paid service is not allowed · no restrictions on your output (paid commissioned work is fine).**
+[ModelFolio License](LICENSE.txt) — **Free for individuals' non-commercial use, school classes and non-profits · paid use (including freelance commissions) and business use at workplaces with employees or public institutions: contact ciaon.dev@gmail.com · selling the app itself or offering it as a paid service is not allowed · no additional restrictions on output made within free use.**
 
 ModelFolio includes open-source components (three.js, Mitsuba 3, Assimp, Open CASCADE and others); see [THIRD_PARTY_NOTICES.txt](THIRD_PARTY_NOTICES.txt).
 
 ### Made by · Support
 
 - Made by **Ciaon** · ciaon.dev@gmail.com
-- ModelFolio is free for individuals and sole proprietors. If you find it useful, you can buy me a coffee.
+- ModelFolio is free for personal and non-commercial use. If you find it useful, you can buy me a coffee.
   - [PayPal (paypal.me/SupportCiaon)](https://paypal.me/SupportCiaon)
   - KakaoPay (Korea): scan the QR below with your phone
 
